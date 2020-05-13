@@ -1,0 +1,1 @@
+# node-secured-auth-mongo
